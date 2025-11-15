@@ -271,7 +271,7 @@ sub-rules:
 rule-providers:
   ads_domain:
     <<: *domain_mrs
-    url: "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Clash.mrs"
+    url: "https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockmihomo.mrs"
     path: ./ruleset/ads_Domain.mrs
   blockhttpdns_domain:
     <<: *domain_mrs
